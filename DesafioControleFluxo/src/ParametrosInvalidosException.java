@@ -1,3 +1,3 @@
-public class Contador {
+public class ParametrosInvalidosException extends Exception {
 
 }
